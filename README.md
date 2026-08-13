@@ -3,11 +3,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Arc_reactor_glow.svg/120px-Arc_reactor_glow.svg.png" width="0" height="0"/>
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c9ff,100:0d1117&height=200&section=header&text=Personal%20Systems%20Interface%20-%20Yash010111&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&AlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c9ff,100:0d1117&height=200&section=header&text=Personal%20Systems%20Interface%20-%20Yash010111&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- TYPING INTRO -->
 <a href="https://github.com/Yash010111">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=INITIALIZING+REPOSITORIES...;GOOD+MORNING%2C+SIR.;ALL+SYSTEMS+OPERATIONAL;WELCOME+TO+MY+GITHUB+MAINFRAME" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=INITIALIZING+REPOSITORIES...;IDENTITY+CONFIRMED%3A+VISITOR;ALL+SYSTEMS+OPERATIONAL;WELCOME+TO+MY+GITHUB+MAINFRAME" alt="Typing SVG" />
 </a>
 
 </div>
@@ -43,10 +43,10 @@
 
 ### LIVE TELEMETRY
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yash010111&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9" width="48%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash010111&theme=tokyonight&hide_border=true&background=0d1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash010111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9" width="48%"/>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash010111&theme=tokyo-night&bg_color=0d1117&color=00E5FF&line=00E5FF&point=ffffff&hide_border=true" width="98%"/>
 
