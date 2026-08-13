@@ -3,7 +3,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Arc_reactor_glow.svg/120px-Arc_reactor_glow.svg.png" width="0" height="0"/>
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c9ff,100:0d1117&height=200&section=header&text=S.H.I.E.L.D.%20//%20J.A.R.V.I.S.&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Personal%20Systems%20Interface%20-%20Yash010111&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c9ff,100:0d1117&height=200&section=header&text=Personal%20Systems%20Interface%20-%20Yash010111&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&AlignY=58&descSize=18" width="100%"/>
 
 <!-- TYPING INTRO -->
 <a href="https://github.com/Yash010111">
@@ -33,7 +33,7 @@
 ![](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00E5FF)
 ![](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00E5FF)
 
-*(edit the badges above to match your actual stack — full list at [shields.io](https://shields.io) and [simpleicons.org](https://simpleicons.org))*
+
 
 </div>
 
